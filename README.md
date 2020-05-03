@@ -1,6 +1,6 @@
 # Api utilisée par l'application android festival
 
-Exemples d'utilisation de l'api :
+Exemple d'utilisation de l'api :
 
 Liste des représentations : http://anthonypineau.alwaysdata.net/representations.php
 
