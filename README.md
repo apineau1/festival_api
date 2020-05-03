@@ -1,10 +1,10 @@
 # Api utilisée par l'application android festival
 
-Utilisation de la bibliothèque slim
+Utilisation du framework slim : http://www.slimframework.com/
 
 Exemple d'utilisation de l'api :
 
-Liste des représentations : http://anthonypineau.alwaysdata.net/representations.php
+Liste des représentations : http://anthonypineau.alwaysdata.net/representations
 
 Accès à la base de données de l'api :
 
