@@ -4,8 +4,8 @@ Exemples d'utilisation de l'api
 
 Accès à la base de données de l'api :
 
-Lien :
+Lien :https://phpmyadmin.alwaysdata.com/
 
-Username : 
+Username : 205634_profs
 
-Password : 
+Password : accesbddprofs
